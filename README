@@ -1,0 +1,9 @@
+This is a little program to test your laptop battery life.
+
+Just run with:
+
+python3 Logger.py
+
+Then wait until the battery dies. The elapsed time and time of battery death will be recorded in a text file.
+
+Stephen Stengel <stephen.stengel@cwu.edu> 2022

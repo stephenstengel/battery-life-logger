@@ -5,7 +5,6 @@
 #  
 #  Copyright 2022 Stephen Stengel <stephen.stengel@cwu.edu>
 
-import datetime
 import time
 
 
